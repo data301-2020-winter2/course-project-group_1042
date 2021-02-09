@@ -17,8 +17,8 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
+- Joel: I am a second year Computer Science student at UBCO
+- Matt: I am a fourth year EESC student at UBCO
 - Person 3: one sentence about you!
 
 ## References
