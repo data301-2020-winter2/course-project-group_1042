@@ -23,4 +23,4 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## References
 
-{Add your stuff here}
+https://gist.github.com/meperezcuello/82a9f1c1c473d6585e750ad2e3c05a41#file-medical_cost-csv
