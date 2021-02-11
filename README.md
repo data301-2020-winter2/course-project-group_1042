@@ -9,7 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-Does this change anything
+
 
 ## Describe your dataset in about 150-200 words
 
@@ -19,7 +19,7 @@ Does this change anything
 
 - Joel: I am a second year Computer Science student at UBCO
 - Matt: I am a fourth year EESC student at UBCO
-- Person 3: one sentence about you!
+- Luis: I am a second year Computer Science student at UBCO
 
 ## References
 
