@@ -13,7 +13,7 @@ We're interested in the medical expenses database as healthcare is an important 
 
 ## Describe your dataset in about 150-200 words
 
-The data was collected from a small sample of the US population and it was covering medical insurance cost. The data set was sorted on the following categories: age, sex, bmi, number of children, smoker, region and costs. This dataset can be used to find how these specific categories impact medical costs. The data was obtained from Kaggle. 
+The dataset we are interested in talks about healthcare and medical costs throughout the United States. A very small sample of the US population was asked about a couple of personal details (pressumbaly to look for any correlation relating to healthcare costs) throughout the entire United States. Some of these details include their age, sex, bmi, number of children, if they smoke, their region relative to the entire US, and their healthcare costs. This data was uploaded to Kaggle, and takes its origin from a book by Brett Lantz and Packt Publishing. This data was taken as a sample metric in order to be used by students in projects relating to data science or machine learning such as this one. There is no information regarding how recent the information is and when the data was collected, but for the purposes of this project we'll use this data as a tool to learn how to read, interpret, and analyze a dataset.
 
 ## Team Members
 
