@@ -1,1 +1,3 @@
-Jupyter Notebook files are stored in this parent directory
+** Jupyter Notebook ** files are stored in this parent directory
+
+
