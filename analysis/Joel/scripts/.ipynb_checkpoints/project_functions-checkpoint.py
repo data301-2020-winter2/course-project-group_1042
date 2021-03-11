@@ -21,5 +21,6 @@ def data_processing(file):
         
         .rename(columns={'sex' : 'Sex', 'children':'Children', 'bmi' : 'BMI', 'smoker' : 'Smoker', 'age' : 'Age', 'region' : 'Region', 'charges' : 'Charges'}) #Capitalizes each column in the dataframe
         .reset_index(drop = True) # resets the index and then drops the newly made column 
-    )
     return new 
+        
+    )
